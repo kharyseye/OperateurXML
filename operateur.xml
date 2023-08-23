@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<operateur xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/Users/mac/Desktop/xml/tpoperateur/operateur.xsd">
+    <client code="380" nom="Seye">
+        <abonnement num="2984" dateAb="2012-12-30" type="FIXE">
+            <facture numFact="09876534" dateFact="2018-09-12" montant="23900"/>
+            <facture numFact="12345789" dateFact="2014-03-15" montant="10985"/>
+        </abonnement>
+        <abonnement num="2934" dateAb="2012-12-30" type="FIXE">
+            <facture numFact="00238011" dateFact="2018-04-22" montant="35000"/>
+            <facture numFact="54567898" dateFact="2016-05-09" montant="98000"/>
+        </abonnement>
+        <abonnement num="1200" dateAb="2012-12-30" type="FIXE">
+            <facture numFact="12987435" dateFact="2016-05-09" montant="45590"/>
+            <facture numFact="46799754" dateFact="2018-09-12" montant="43210"/>
+            <facture numFact="94678321" dateFact="2014-03-15" montant="9000"/>
+        </abonnement>
+    </client>
+    <client code="239" nom="Fall">
+        <abonnement num="3908" dateAb="2012-03-23" type="INTERNET">
+            <facture numFact="002377711" dateFact="2015-06-02" montant="5000"/>
+            <facture numFact="002377711" dateFact="2016-06-02" montant="38900"/>
+        </abonnement>
+    </client>
+    <client code="90" nom="Ndiaye">
+        <abonnement num="7845" dateAb="2023-11-25" type="GSM">
+            <facture numFact="0004561" dateFact="2014-03-22" montant="12000"/>
+            <facture numFact="012341" dateFact="2014-04-09" montant="45500"/>
+        </abonnement>
+        <abonnement num="2345" dateAb="2023-11-25" type="GSM">
+            <facture numFact="0023261" dateFact="2014-05-12" montant="34500"/>
+            <facture numFact="0234561" dateFact="2016-05-09" montant="67700"/>
+            <facture numFact="0009461" dateFact="2018-09-12" montant="32000"/>
+        </abonnement>
+        <abonnement num="0984" dateAb="2023-11-25" type="GSM">
+            <facture numFact="065761" dateFact="2014-03-15" montant="9000"/>
+            <facture numFact="0346561" dateFact="2014-03-26" montant="56000"/>
+            <facture numFact="0468561" dateFact="2017-05-02" montant="10000"/>
+        </abonnement>
+    </client>
+    <client code="455" nom="Diagne">
+        <abonnement num="0987" dateAb="2011-02-10" type="INTERNET">
+            <facture numFact="00238011" dateFact="2013-05-29" montant="34500"/>
+            <facture numFact="00234322" dateFact="2014-05-12" montant="34510"/>
+            <facture numFact="02345633" dateFact="2016-05-09" montant="65700"/>
+        </abonnement>
+    </client>
+    <client code="777" nom="Laye">
+        <abonnement num="2909" dateAb="2019-07-10" type="INTERNET">
+            <facture numFact="00238011" dateFact="2018-04-22" montant="30000"/>
+        </abonnement>
+        <abonnement num="2909" dateAb="2019-07-10" type="INTERNET">
+            <facture numFact="05676561" dateFact="2014-03-26" montant="76590"/>
+            <facture numFact="00567974" dateFact="2017-05-02" montant="34570"/>
+            <facture numFact="02396561" dateFact="2016-05-09" montant="56780"/>
+            
+        </abonnement>
+        <abonnement num="2909" dateAb="2019-07-10" type="INTERNET">
+            <facture numFact="00094461" dateFact="2018-09-12" montant="90000"/>
+            <facture numFact="06576144" dateFact="2014-03-15" montant="50000"/>
+        </abonnement>
+    </client>
+    <client code="009" nom="Diop">
+        <abonnement num="1234" dateAb="2012-12-30" type="GSM">
+            <facture numFact="00984536" dateFact="2016-04-22" montant="55000"/>
+            <facture numFact="23890954" dateFact="2016-05-09" montant="18900"/>
+            <facture numFact="54323455" dateFact="2018-09-12" montant="55000"/>
+            <facture numFact="98789059" dateFact="2014-03-15" montant="30000"/>
+        </abonnement>
+    </client>
+</operateur>
